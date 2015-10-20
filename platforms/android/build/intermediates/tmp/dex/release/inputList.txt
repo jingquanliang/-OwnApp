@@ -1,0 +1,2 @@
+D:\Intell Idea WorkSpace\IOnic\OwnApp\platforms\android\build\intermediates\classes\release
+D:\Intell Idea WorkSpace\IOnic\OwnApp\platforms\android\build\intermediates\pre-dexed\release\classes-103062baf06b64f5603abe98e442d021f06efd61.jar

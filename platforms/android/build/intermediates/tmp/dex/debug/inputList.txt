@@ -1,0 +1,2 @@
+D:\Intell Idea WorkSpace\IOnic\OwnApp\platforms\android\build\intermediates\classes\debug
+D:\Intell Idea WorkSpace\IOnic\OwnApp\platforms\android\build\intermediates\pre-dexed\debug\classes-0c53f7f6a3973543af677dcca4c0e2c8ea7e449c.jar

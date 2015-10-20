@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+
+    <!-- your app's css -->
+    <link href="css/common/style.css" rel="stylesheet">
+
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="css/ionic.app.css" rel="stylesheet">
+    -->
+
+    <!--jquery-->
+    <script type="text/javascript" src="js/common/jquery-1.10.2.js"></script>
+
+    <!-- ionic/angularjs js -->
+    <script type="text/javascript" src="lib/ionic/js/ionic.bundle.js"></script>
+
+    <!-- cordova script (this will be a 404 during development)-->
+    <script src="cordova.js"></script>
+
+    <!-- your app's js -->
+    <script type="text/javascript" src="js/index1/app.js"></script>
+    <script type="text/javascript" src="js/index1/controllers.js"></script>
+    <script type="text/javascript" src="js/index1/services.js"></script>
+
+
+    <!--获取语言的js-->
+
+
+
+  </head>
+  <body ng-controller="MyController">
+
+    <ion-nav-view></ion-nav-view>
+
+    <!--Sign in or Register model dialog-->
+    <script id="my-modal.html" type="text/ng-template">
+      <div class="modal">
+
+        <ion-tabs>
+          <!-- Sign In Tab -->
+          <ion-tab title="Sign In">
+
+            <ion-content has-header="false">
+              <h1>fajslkfjlasf</h1>
+            </ion-content>
+          </ion-tab>
+
+          <!-- Register Tab -->
+          <ion-tab title="Register">
+            <ion-content has-header="false">
+              <h1>RegisterRegisterRegisterRegister</h1>
+            </ion-content>
+
+          </ion-tab>
+        </ion-tabs>
+      </div>
+
+
+    </script>
+
+
+  </body>
+</html>

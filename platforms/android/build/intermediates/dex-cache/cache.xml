@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Intell Idea WorkSpace\IOnic\OwnApp\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\release\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d9ae66c11209f63c115bc885baf4c4f899a1462b">
+        <dex dex="D:\Intell Idea WorkSpace\IOnic\OwnApp\platforms\android\build\intermediates\pre-dexed\release\classes-103062baf06b64f5603abe98e442d021f06efd61.jar" />
+    </item>
+    <item
+        jar="D:\Intell Idea WorkSpace\IOnic\OwnApp\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a2a840414ba156109b65ab79bbaf3f2c5d2d016">
+        <dex dex="D:\Intell Idea WorkSpace\IOnic\OwnApp\platforms\android\build\intermediates\pre-dexed\debug\classes-0c53f7f6a3973543af677dcca4c0e2c8ea7e449c.jar" />
+    </item>
+
+</items>
